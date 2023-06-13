@@ -1,0 +1,9 @@
+We are basically making a project with go  in which we will be playing with cards , and in that project there
+will be couple of functions to do the work . We can solve this project easily by oops but go is not a oops lan-
+guage as in oops we could make a class of deck and create a instance of deck and define a string and place all 
+our cards in it  and speficy some functions and manipulate our cards through that functions .But in go this 
+can't happen.
+
+In go we will be defining a type  deck which will be an array of strings and there will be bunch of functions 
+made to use with it.
+
